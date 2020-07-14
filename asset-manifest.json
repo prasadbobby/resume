@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume-react/static/css/main.deb1f9b7.chunk.css",
+    "main.js": "/resume-react/static/js/main.5d0dfd6f.chunk.js",
+    "main.js.map": "/resume-react/static/js/main.5d0dfd6f.chunk.js.map",
+    "runtime-main.js": "/resume-react/static/js/runtime-main.fc407b04.js",
+    "runtime-main.js.map": "/resume-react/static/js/runtime-main.fc407b04.js.map",
+    "static/js/2.2120ef1a.chunk.js": "/resume-react/static/js/2.2120ef1a.chunk.js",
+    "static/js/2.2120ef1a.chunk.js.map": "/resume-react/static/js/2.2120ef1a.chunk.js.map",
+    "index.html": "/resume-react/index.html",
+    "precache-manifest.91a1112cf285b6e1eb8ccc992bdc5ac4.js": "/resume-react/precache-manifest.91a1112cf285b6e1eb8ccc992bdc5ac4.js",
+    "service-worker.js": "/resume-react/service-worker.js",
+    "static/css/main.deb1f9b7.chunk.css.map": "/resume-react/static/css/main.deb1f9b7.chunk.css.map",
+    "static/js/2.2120ef1a.chunk.js.LICENSE.txt": "/resume-react/static/js/2.2120ef1a.chunk.js.LICENSE.txt",
+    "static/media/img.jpg": "/resume-react/static/media/img.7539ac2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc407b04.js",
+    "static/js/2.2120ef1a.chunk.js",
+    "static/css/main.deb1f9b7.chunk.css",
+    "static/js/main.5d0dfd6f.chunk.js"
+  ]
+}
